@@ -19,11 +19,11 @@ This is a basic discord server nuker which can be hosted 24/7.
 - when it asks for GitHub link, paste that here : `https://github.com/ItzMeeGaurav/Discord-Server-Nuker.git` and then create a new repl. 
 - now on the secrets tab, enter these keys and values as:
 
-KEY= botToken
+`KEY= botToken
 value= yourbottoken
 
 KEY= prefix
-value= yourbotprefix
+value= yourbotprefix`
 
 ### Hosting
 
