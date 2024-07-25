@@ -11,8 +11,8 @@ import asyncio
 from keep_alive import keep_alive
 # Check readme.md for lastest updates
 
-token = os.environ['botToken']
-prefix = os.environ['prefix']
+token = os.environ['MTI2NjExODA5NzY2NDg3MjUxOQ.GyZLwy.4bHK6CnNssNR6vSOzlaYeuPIVaiaaO8R8ad8TE']
+prefix = os.environ['+']
 
 # If you are having issues, watch this video: https://streamable.com/7eovst or follow message listed below
 
